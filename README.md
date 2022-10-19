@@ -1,4 +1,1 @@
-- Hello everybody! I'm Slavron. Currently, I'm a student of the computer programming program.
-- I've created this GitHub account to find interesting features of programming and become a good programmer.
-- There is one word I want to tell You programmers... Thank You! You are making this world better and better every day!
-- I hope that everyone feels great nowadays!
+
